@@ -1,0 +1,57 @@
+# Lyra Starter Game project directories
+/Binaries/
+/Build/
+/Config/
+/Content/
+/DerivedDataCache/
+/Intermediate/
+/Platforms/
+/Plugins/AsyncMixin/
+/Plugins/CommonGame/
+/Plugins/CommonLoadingScreen/
+/Plugins/CommonUser/
+/Plugins/GameFeatures/ShooterCore/
+/Plugins/GameFeatures/ShooterExplorer/
+/Plugins/GameFeatures/ShooterMaps/
+/Plugins/GameFeatures/ShooterTests/
+/Plugins/GameFeatures/TopDownArena/
+/Plugins/GameplayMessageRouter/
+/Plugins/GameSettings/
+/Plugins/GameSubtitles/
+/Plugins/LyraExampleContent/
+/Plugins/LyraExtTool/
+/Plugins/ModularGameplayActors/
+/Plugins/PocketWorlds/
+/Plugins/UIExtension/
+/Saved/
+/Source/
+
+# Visual Studio files and directories
+/.vs/
+*.sln
+.vsconfig
+
+# Perforce ignore file
+.p4ignore
+
+# Bnary file formats
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.stub
+*.ipa
+*.so
+*.pdb
+*.uasset
+*.umap
+*.upk
+*.udk
+*.ubulk
+*.png
+
+# Directories always ignored anywhere
+**/ArtSource/
+**/Binaries/
+**/Intermediate/
